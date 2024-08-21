@@ -1,4 +1,4 @@
-#Requirements and Features
+#Requirements and Features<br>
  User Input: Allow users to input their daily expenses, including the amount spent and a brief 
 description.<br>
  Data Storage: Use appropriate data structures or file handling techniques to store and retrieve 
